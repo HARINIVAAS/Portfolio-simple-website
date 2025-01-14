@@ -16,6 +16,6 @@ Technologies Used
 HTML: For the structure of the website.
 CSS: For styling and layout.
 
-DEMO:🚀
+DEMO:🚀https://harinivaas.github.io/Portfolio-simple-website/
 
 THANKYOU FOR VISITING MY PORTFOLIO WEBSITE!!😊
